@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2020
+VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp1", "TestConsoleApp1\TestConsoleApp1.csproj", "{33BC4005-A1D1-4309-867A-9B8C8591F8A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpLearnerLearn", "TestConsoleApp1\HttpLearnerLearn.csproj", "{33BC4005-A1D1-4309-867A-9B8C8591F8A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
